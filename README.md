@@ -84,6 +84,6 @@ The screenshot demonstrating the contents before and after executing the above s
 
 
 
- ![alt text]()
+ ![alt text](https://github.com/asadprodhan/Nanopore-Data-Tools/blob/main/TerminalShot.PNG)
  
  
