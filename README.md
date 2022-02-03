@@ -6,7 +6,7 @@
 
 
 
-The sequencing reads from a multiplex library are grouped in different directories named after the corresponding barcode. The first step of the analysis workflow is to rename these directories as per the sample name or id. Then, concatenate all the reads into a single fastq file sample-wise. Again, the concatenated fastq files should be named after the sample names or ids. Any mislabelling would lead to misleading results.
+The sequencing reads from a multiplex library are grouped into different directories named after the corresponding barcodes. The first step of analysing these reads is to label the barcode directories as per their sample names or ids. Then, concatenating the reads of a sample into a single fastq file. Again, these concatenated fastq files should be named after their sample names or ids. Any mislabelling of the reads would lead to misleading results.
 
 
 Here, I have compiled a bash script that automates this whole process. It is not only time-efficient but also takes away the potential risk of mislabelling the sequencing reads.
