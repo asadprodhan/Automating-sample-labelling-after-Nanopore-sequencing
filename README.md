@@ -83,6 +83,6 @@ The screenshot demonstrating the contents before and after executing the above s
 
 
 
- ![alt text](https://github.com/asadprodhan/Nanopore-Data-Tools/blob/main/TerminalShot.PNG)
+ ![alt text](https://github.com/asadprodhan/Nanopore-Data-Tools/blob/main/TerminalScreenShot.PNG)
  
  
