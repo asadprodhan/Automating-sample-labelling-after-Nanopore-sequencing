@@ -2,7 +2,7 @@
 
 
 
-## **Automating the labelling of the barcodes and the sequencing reads**
+## **Automating sample labelling after sequencing**
 
 
 
