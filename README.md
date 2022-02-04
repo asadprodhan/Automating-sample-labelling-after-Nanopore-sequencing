@@ -76,7 +76,7 @@ It is a csv file containing the list of the barcodes and the corresponding sampl
 
 
 
-The script renames the barcode directories, concatenated the reads sample-wise, and collect the concatenated fastq files into the home directory. These files are now ready for QC and the downstream analysis. 
+The script renames the barcode directories, concatenates the reads sample-wise, and collects the concatenated fastq files into the home directory. These files are now ready to be used in QC and any downstream analysis. 
 
 
 The screenshot demonstrating the contents before and after executing the above script: 
