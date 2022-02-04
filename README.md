@@ -39,7 +39,6 @@ do
     echo Moving ${field2}.fastq into home directory
     mv ${field2}.fastq ../
     cd "../"
-    echo Completed ${field1} 
     echo "${Green}${Bold}Completed ${reset}: ${field1}"
     echo ""
 done < ${metadata}
