@@ -21,12 +21,14 @@ Here, I have compiled a bash script that automates this whole process. It is not
 
 #metadata
 metadata=barcodeNames.csv
-#
+
+# text formatting
 Red="$(tput setaf 1)"
 Green="$(tput setaf 2)"
 Bold=$(tput bold)
 reset=`tput sgr0` # turns off all atribute
-while IFS=, read -r field1 field2  
+
+while IFS=, read -r field1 field2 # reading the metadata file line-by-line, each column is a field
 
 do  
     echo "${Red}${Bold}Processing ${reset}: "${field1}"" 
