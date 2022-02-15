@@ -2,7 +2,7 @@
 
 
 
-## **Automating sample labelling after sequencing**
+## **Automating sample labelling after Nanopore sequencing**
 
 
 
