@@ -61,7 +61,7 @@ It is a csv file containing the list of the barcodes and the corresponding sampl
  
  
  
-Note that if you make this csv file in Windows computer, you will need to convert it to unix format for using it in Linux computer. Because Windows uses \r\n as line-ending while Unix uses \n. To do so, install the dos2unix package as follows:
+Note that if you make this csv file in Windows computer, you will need to convert it to Unix format for using it in Linux computer. Because the Windows computer uses \r\n as line-ending while the Unix uses \n. However, for the conversion, install the dos2unix package as follows:
 
 
 ```
@@ -78,6 +78,7 @@ dos2unix metadata.csv
 
 
 This will convert the Windows formatting to the Unix one. 
+
 
 
 ### **How to use the script?**
