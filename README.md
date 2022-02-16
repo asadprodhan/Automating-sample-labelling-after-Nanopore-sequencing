@@ -1,8 +1,4 @@
-# **Nanopore Data Tools** <br />
-
-
-
-## **Automating sample labelling after Nanopore sequencing**
+# **Automating sample labelling after Nanopore sequencing** <br />
 
 
 
